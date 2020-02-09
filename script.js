@@ -106,9 +106,6 @@ function checkScroll() {
 
     }
 }
-
-
-
 window.addEventListener("scroll", checkScroll);
 
 // This event fills the progress bars if they are displayed on the screen when the page is loaded.
